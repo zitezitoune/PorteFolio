@@ -1,9 +1,23 @@
+.nav{
+   
+}
 
+.nav > a{
+    text-decoration: none;
+    
+    
+
+}
 
 .para3{
-    background-color: aqua;
+    margin-top: 5px;
+    
 }
 
 .presentation{
-    background-color:red
+    
+}
+
+.image{
+    
 }
